@@ -1,0 +1,1 @@
+/home/oshiro-yuuki/Documents/Waseda/Kasahara/Oscar/oscar-rs/target/debug/liboscar_frontend_clang.rlib: /home/oshiro-yuuki/Documents/Waseda/Kasahara/Oscar/oscar-rs/crates/oscar-frontend-clang/src/lib.rs

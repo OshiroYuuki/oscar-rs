@@ -1,4 +1,4 @@
 [workspace]
-members = ["crates/oscar-ir", "crates/oscar-cli"]
+members = ["crates/oscar-ir", "crates/oscar-cli", "crates/oscar-frontend-clang", "crates/oscar-analysis", "crates/oscar-transform", "crates/oscar-schedule", "crates/oscar-emit-openmp", "crates/oscar-runtime-ffi", "crates/oscar-examples"]
 resolver = "2"
 
